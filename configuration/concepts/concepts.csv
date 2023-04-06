@@ -177,7 +177,7 @@ uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Descript
 7e52e57e-e42f-11e5-8c3e-08002715d519,,,LABRESULTS_CONCEPT,LABRESULTS_CONCEPT,,Finding,N/A,,LAB_ABNORMAL;LAB_MAXNORMAL;LAB_MINNORMAL;LAB_NOTES;LAB_REPORT;LAB_RESULT;REFERRED_OUT,,,,,,,,,,,,,,,,
 7f144927-e42f-11e5-8c3e-08002715d519,,,All Disease Templates,All Disease Templates,,ConvSet,N/A,,,,,,,,,,,,,,,,,,
 7f6b5bad-e42f-11e5-8c3e-08002715d519,,,Order Attributes,Order Attributes,,Misc,N/A,,Dispensed,,,,,,,,,,,,,,,,
-7f84e270-e42f-11e5-8c3e-08002715d519,,,All Orderables,All Orderables,,ConvSet,N/A,,Lab Samples,,,,,,,,,,,,,,,,
+7f84e270-e42f-11e5-8c3e-08002715d519,,,All Orderables 2,All Orderables,,ConvSet,N/A,,Lab Samples,,,,,,,,,,,,,,,,
 801a22dc-e42f-11e5-8c3e-08002715d519,,,REGISTRATION_CONCEPTS,,,ConvSet,Numeric,,,,,,,,,,,,,,,,,0,
 80d3921f-e42f-11e5-8c3e-08002715d519,,,Bacteriology Additional Attributes,Additional Attributes,,Bacteriology Attributes,N/A,,,,,,,,,,,,,,,,,,
 80d3da61-e42f-11e5-8c3e-08002715d519,,,Bacteriology Results,Results,,Bacteriology Results,N/A,,,,,,,,,,,,,,,,,,
