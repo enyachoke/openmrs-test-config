@@ -188,3 +188,7 @@ uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Descript
 79240953-e1n7-11e8-c92f-0242ac130002,,,Plastic+Ortho surgery,Plastic+Ortho surgery,,Misc,N/A,,,,,,,,,,,,,,,,,,
 79240953-e1n7-11e8-c92f-0242ac130003,,,Surgeon Follow-up (Plastic) + Dressing,Surgeon Follow-up (Plastic) + Dressing,,Misc,N/A,,,,,,,,,,,,,,,,,,
 79240959-e1e7-11e8-b02f-0242ac130003,,,First visit request,First visit request,,Misc,Coded,Plastic surgery;Orthopedic surgery;Plastic+Ortho surgery;Surgeon Follow-up (Plastic) + Dressing;Other,,,,,,,,,,,,,,,,,
+79240952-e1m7-11e8-c92f-0242ac130002,,,Orthopedic surgery,Orthopedic surgery,,Misc,N/A,,,,,,,,,,,,,,,,,,
+79240953-e1n7-11e8-c92f-0242ac130002,,,Plastic+Ortho surgery,Plastic+Ortho surgery,,Misc,N/A,,,,,,,,,,,,,,,,,,
+79240953-e1n7-11e8-c92f-0242ac130003,,,Surgeon Follow-up (Plastic) + Dressing,Surgeon Follow-up (Plastic) + Dressing,,Misc,N/A,,,,,,,,,,,,,,,,,,
+79240959-e1e7-11e8-b02f-0242ac130003,,,First visit request,First visit request,,Misc,Coded,Plastic surgery;Orthopedic surgery;Plastic+Ortho surgery;Surgeon Follow-up (Plastic) + Dressing;Other,,,,,,,,,,,,,,,,,
